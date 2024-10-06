@@ -1,0 +1,10 @@
+html {
+    background-color: #2d2d2d;
+    background-image: radial-gradient(circle, #3e3e3e 20%, transparent 20%), radial-gradient(circle, #3e3e3e 20%, transparent 20%);
+    background-position: 0 0, 10px 10px;
+    background-size: 20px 20px;
+}
+
+* {
+    box-sizing: border-box;
+}
